@@ -1,0 +1,18 @@
+
+.mainBlock {
+    background-color: pink;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.text {
+    width: 300px;
+    background-color: #fff;
+}
+.photo {
+    width: 300px;
+    height: 400px;
+    background-color: #fff;
+}

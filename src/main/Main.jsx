@@ -3,8 +3,13 @@ import s from './main.module.css'
 
 const Main = () => {
     return (
-        <div>
-
+        <div className={s.mainBlock}>
+                <div className={s.text}>
+                    <span> = = =</span>
+                    <h1>GhermanMarina</h1>
+                    <p>Developer</p>
+                </div>
+            <div className={s.photo}></div>
         </div>
     );
 };
