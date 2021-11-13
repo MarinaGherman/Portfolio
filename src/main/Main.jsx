@@ -1,5 +1,5 @@
 import React from 'react';
-import s from './main.module.css'
+import s from './Main.module.css'
 
 const Main = () => {
     return (
@@ -9,7 +9,9 @@ const Main = () => {
                     <h1>GhermanMarina</h1>
                     <p>Developer</p>
                 </div>
-            <div className={s.photo}></div>
+            <div className={s.photo}>
+                d
+            </div>
         </div>
     );
 };
