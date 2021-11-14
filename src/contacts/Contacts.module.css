@@ -1,0 +1,44 @@
+.contactsBlock {
+    min-height: 100vh;
+    background-color: tan;
+}
+
+.titleBlock {
+    min-height: 5vh;
+    border: 1px solid;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.formBlock {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.form {
+    min-width: 290px;
+    display: flex;
+    flex-direction: column;
+
+}
+.input {
+    margin: 10px 0;
+    height: 40px;
+}
+.btnBlock {
+    height: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.btn {
+    width: 200px;
+    height: 40px;
+}

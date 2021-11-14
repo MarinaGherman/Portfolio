@@ -1,9 +1,8 @@
-.skillsBlock {
-    background-color: #c0ffc8;
-    min-height: 100vh;
+.remoteBlock {
+    min-height: 10vh;
+    background-color: antiquewhite;
     display: flex;
     flex-direction: column;
-
 }
 .title {
     min-height: 5vh;
@@ -13,14 +12,13 @@
     justify-content: center;
     align-items: center;
 }
-title,h2 {
-    margin: 0;
-}
 
-.skills {
+.btnBlock {
     display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
-
+    justify-content:center;
+}
+.btn {
+    margin-top: 20px;
+    width: 200px;
+    height: 40px;
 }

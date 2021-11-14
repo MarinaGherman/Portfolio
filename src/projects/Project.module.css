@@ -1,0 +1,31 @@
+.projectBlock {
+    width: 320px;
+    min-height: 280px;
+    background-color: #fff;
+    margin-bottom: 20px;
+}
+
+.image {
+    background-size: cover;
+    background-position: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeGQ_1BKqZMLmv6pASiDRQCm4VMt0bmrRwYw&usqp=CAU");
+}
+.btn {
+    width: 200px;
+    height: 40px;
+}
+.btnBlock {
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+p {
+  font-weight: bold;
+}
+
+.desc {
+    padding: 10px 20px;
+}
