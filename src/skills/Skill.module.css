@@ -1,4 +1,5 @@
 .skill {
+    margin: 10px;
     width: 250px;
     background-color: rgba(0, 0, 139, 0.18);
     display: flex;
