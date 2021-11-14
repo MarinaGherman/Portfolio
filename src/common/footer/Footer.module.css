@@ -1,0 +1,13 @@
+.footer {
+    height: 10vh;
+    background-color: beige;
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+}
+.icons {
+    display: flex;
+}
+.privacy {
+    display: flex;
+}
