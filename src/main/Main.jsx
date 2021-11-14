@@ -6,11 +6,11 @@ const Main = () => {
         <div className={s.mainBlock} id="main">
                 <div className={s.text}>
                     <span> = = =</span>
-                    <h1>GhermanMarina</h1>
-                    <p>Developer</p>
+                    <h1>Gherman Marina</h1>
+                    <p>WEB-Developer</p>
                 </div>
             <div className={s.photo}>
-                d
+
             </div>
         </div>
     );

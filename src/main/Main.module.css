@@ -16,4 +16,7 @@
     width: 300px;
     height: 400px;
     background-color: #fff;
+    background-image: url("https://i.pinimg.com/564x/d7/f0/1d/d7f01dbc02b57391e8dfca47dea467ce.jpg");
+    background-size: cover;
+    background-position: center;
 }

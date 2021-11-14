@@ -1,5 +1,4 @@
 .remoteBlock {
-    min-height: 10vh;
     background-color: antiquewhite;
     display: flex;
     flex-direction: column;
@@ -14,11 +13,12 @@
 }
 
 .btnBlock {
+    height: 10vh;
     display: flex;
     justify-content:center;
+    align-items: center;
 }
 .btn {
-    margin-top: 20px;
     width: 200px;
     height: 40px;
 }
