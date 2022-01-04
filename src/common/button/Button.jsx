@@ -1,13 +1,9 @@
-import React, {useState} from 'react';
+import React from 'react';
 import s from './Button.module.css'
 
 
 const Button = (props) => {
-    // const [active,disabled] = useState(true)
-    // const toggleButton = () => {
-    //     disabled(!active)
-    // }
-    return  <button className={props.active ? s.active : s.button}>{props.text}</button>
+    return <button onClick={props.onClick} className={props.active ? s.active : s.button}>{props.children}</button>
 };
 
 export default Button;
