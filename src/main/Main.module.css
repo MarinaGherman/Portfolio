@@ -1,16 +1,17 @@
 
 .mainBlock {
-    background-color: pink;
+    background-color: white;
     min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
     flex-wrap: wrap;
-
+}
+.buttonBlock {
+    display: flex;
 }
 .text {
-    width: 300px;
-    background-color: #fff;
+    font-weight: 400;
 }
 .photo {
     width: 300px;
