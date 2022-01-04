@@ -7,9 +7,23 @@
     width: 100px;
 }
 .icon {
-    height: 50px;
+    height: 40px;
     display: flex;
     margin: 10px 0;
+
+}
+.icon:hover {
+    animation-duration: 30s;
+    animation-name: slidein;
+    overflow: hidden;
+}
+@keyframes slidein {
+    from {
+        margin-top: 10px;
+    }
+    to {
+        margin-top: 40px;
+    }
 }
 .title {
     text-align: center;
