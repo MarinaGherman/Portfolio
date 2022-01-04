@@ -1,0 +1,27 @@
+.contactsBlock {
+    display: flex;
+}
+.contactForm {
+    text-align: center;
+    height: 100px;
+    width: 100px;
+}
+.icon {
+    height: 50px;
+    display: flex;
+    margin: 10px 0;
+}
+.title {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.iconBlock {
+    display: flex;
+    align-content: flex-end;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
