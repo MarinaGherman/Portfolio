@@ -1,16 +1,16 @@
 import React from 'react';
 import s from './Skill.module.css'
 
-const Skill = ({title,text}) => {
+const Skill = ({title,link, icon}) => {
     return (
-        <div className={s.skill}>
-            <div className={s.icon }>
-                <img style={{width: '100px'}} src="https://toppng.com/uploads/preview/bootstrap-social-media-icons-html-css-js-logo-11563293145uql7yehdq3.png" alt=""/>
-            </div>
-            <h3>{title}</h3>
-            <span className={s.desc}>
-                {text}
-            </span>
+        <div className={s.skillForm}>
+            <a href={link}>
+                <div className={s.iconBlock}>
+                    <img className={s.icon} src={icon} alt=""/>
+                </div>
+                <span className={s.title}>{title}</span>
+            </a>
+
         </div>
     );
 };

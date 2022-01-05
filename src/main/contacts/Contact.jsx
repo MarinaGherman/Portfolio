@@ -10,8 +10,6 @@ const Contact = ({link,title,icon}) => {
                 </div>
                 <span className={s.title}>{title}</span>
             </a>
-
-            
         </div>
     );
 };
