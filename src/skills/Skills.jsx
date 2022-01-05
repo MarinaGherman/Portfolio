@@ -13,7 +13,7 @@ import mi from '../common/images/material-ui.svg'
 
 const Skills = () => {
     return (
-        <div className={s.skillsBlock} id="skills">
+        <div className={s.skillsBlock}>
              <div className={s.skills}>
                  <Skill title={'JS'} icon={js} />
                  <Skill title={'React'} icon={react} />

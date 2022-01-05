@@ -11,7 +11,6 @@ const Projects = () => {
             <div className={s.projectComponents}>
                 <Project/>
                 <Project/>
-                <Project/>
             </div>
         </div>
     );
