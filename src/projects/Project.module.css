@@ -1,16 +1,25 @@
 .projectBlock {
-    width: 49%;
+    width: 43%;
     min-height: 500px;
     background-color: #fff;
 }
 .image {
     background-size: cover;
     background-position: center;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeGQ_1BKqZMLmv6pASiDRQCm4VMt0bmrRwYw&usqp=CAU");
+
 }
 .btn {
-    width: 200px;
-    height: 40px;
+    border: none;
+    padding: 15px 40px;
+    border-radius: 25px;
+    margin: 10px;
+    cursor: pointer;
+    background-color: #6C63FF;
+    color: white;
+}
+
+a {
+    color: white;
 }
 .btnBlock {
     height: 400px;
