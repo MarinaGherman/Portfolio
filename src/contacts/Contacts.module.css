@@ -1,11 +1,10 @@
 .contactsBlock {
-    min-height: 100vh;
-    background-color: tan;
+
+    background-color: white;
 }
 
 .titleBlock {
     min-height: 5vh;
-    border: 1px solid;
     display: flex;
     align-content: center;
     justify-content: center;
@@ -13,7 +12,6 @@
 }
 
 .formBlock {
-    height: 100vh;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -27,8 +25,19 @@
 
 }
 .input {
-    margin: 10px 0;
     height: 40px;
+    border: 1px solid #6C63FF;
+    padding: 5px 10px;
+    border-radius: 25px;
+    margin: 10px;
+    cursor: pointer;
+    color: black;
+}
+.textArea {
+    border: 1px solid #6C63FF;
+    padding: 5px 10px;
+    border-radius: 25px;
+    resize: none;
 }
 .btnBlock {
     height: 10vh;
@@ -39,6 +48,11 @@
     align-items: center;
 }
 .btn {
-    width: 200px;
-    height: 40px;
+    border: none;
+    padding: 15px 40px;
+    border-radius: 25px;
+    margin: 10px;
+    cursor: pointer;
+    background-color: #6C63FF;
+    color: white;
 }

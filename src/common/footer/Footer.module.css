@@ -1,9 +1,10 @@
 .footer {
-    height: 10vh;
-    background-color: beige;
+    height: 60px;
+    background-color: #6C63FF;
     display: flex;
     justify-content:space-around;
     align-items:center;
+    color: white;
 }
 .icons {
     display: flex;

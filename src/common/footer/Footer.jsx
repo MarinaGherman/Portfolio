@@ -9,12 +9,6 @@ const Footer = () => {
     return (
 
             <div className={s.footer}>
-                <div className={s.icons}>
-                    <Icons img={fb}/>
-                    <Icons img={vk}/>
-                    <Icons img={insta}/>
-
-                </div>
                 <div className={s.privacy} >
                     <p>@2021 All rights reserved </p>
                 </div>

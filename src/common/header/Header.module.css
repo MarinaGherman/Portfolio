@@ -1,9 +1,11 @@
 
 
 .header {
-    height: 80px;
-    background-color: cornflowerblue;
+    height: 60px;
+    background-color: #6C63FF;
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
 }

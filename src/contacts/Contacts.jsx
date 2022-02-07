@@ -12,7 +12,7 @@ const Contacts = () => {
                 <div className={s.form}>
                     <input placeholder="Your name" className={s.input}/>
                     <input placeholder="Your e-mail" className={s.input}/>
-                    <textarea placeholder="Your message" name="" id="" cols="30" rows="10"/>
+                    <textarea className={s.textArea} placeholder="Your message" name="" id="" cols="30" rows="10"/>
                     <div className={s.btnBlock}>
                         <button className={s.btn}>Send</button>
                     </div>
