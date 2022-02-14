@@ -2,7 +2,17 @@
     width: 43%;
     min-height: 500px;
     background-color: #fff;
+
 }
+@media only screen and (max-width: 600px) {
+    .projectBlock {
+        text-align: center;
+        height: 200px;
+        width: 43%;
+        min-height: 100vh;
+    }
+}
+
 .image {
     background-size: cover;
     background-position: center;
@@ -28,6 +38,13 @@ a {
     align-content: center;
     justify-content: center;
     align-items: center;
+}
+@media only screen and (max-width: 600px) {
+    .btnBlock {
+
+        height: 200px;
+
+    }
 }
 p {
   font-weight: bold;

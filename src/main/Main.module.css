@@ -11,9 +11,26 @@
 .buttonBlock {
     display: flex;
 }
+
+@media only screen and (max-width: 600px) {
+    .text {
+      text-align: center;
+    }
+}
 .text {
     font-weight: 400;
 }
+@media only screen and (max-width: 600px) {
+    .title {
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 600px) {
+    .contactContainer {
+        text-align: center;
+    }
+}
+
 .photo {
     width: 300px;
     height: 400px;

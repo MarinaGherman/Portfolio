@@ -12,10 +12,13 @@ const Main = () => {
     return (
         <div className={s.mainBlock} id="main">
                 <div>
-                    <h1>I'm Marina</h1>
+                    <h1 className={s.title}>I'm Marina</h1>
                     <h1 className={s.text}>a Front End Developer.</h1>
-                    <Button onClick={() => setShow(CONTACTS)} active={show === CONTACTS}>Contact</Button>
-                    <Button onClick={() => setShow(SKILLS)} active={show === SKILLS}>Skills</Button>
+                    <div className={s.contactContainer}>
+                        <Button onClick={() => setShow(CONTACTS)} active={show === CONTACTS}>Contact</Button>
+                        <Button onClick={() => setShow(SKILLS)} active={show === SKILLS}>Skills</Button>
+                    </div>
+
                 </div>
             {show === CONTACTS && (
                 <div>
