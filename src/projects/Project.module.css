@@ -1,6 +1,6 @@
 .projectBlock {
-    width: 43%;
-    min-height: 500px;
+    width: 90%;
+    max-width: 400%;
     background-color: #fff;
 }
 @media only screen and (max-width: 600px) {
