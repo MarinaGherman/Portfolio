@@ -1,12 +1,11 @@
 .projectBlock {
     width: 90%;
-    max-width: 400%;
+    max-width: 400px;
     background-color: #fff;
 }
 @media only screen and (max-width: 600px) {
     .projectBlock {
         text-align: center;
-        width: 90%;
     }
 }
 
