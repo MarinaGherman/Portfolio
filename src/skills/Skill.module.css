@@ -10,6 +10,9 @@
     margin: 10px 0;
 
 }
+.title {
+    color: black;
+}
 .icon:hover {
     animation-duration: 30s;
     animation-name: slidein;

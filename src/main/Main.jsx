@@ -10,28 +10,32 @@ const SKILLS = "SKILLS"
 const Main = () => {
     const [show, setShow] = useState(CONTACTS);
     return (
-        <div className={s.mainBlock} id="main">
+        <div className={s.generalBlock}>
+            <div className={s.mainBlock} id="main">
                 <div>
                     <h1 className={s.title}>I'm Marina</h1>
                     <h1 className={s.text}>a Front End Developer.</h1>
+
                     <div className={s.contactContainer}>
                         <Button onClick={() => setShow(CONTACTS)} active={show === CONTACTS}>Contact</Button>
                         <Button onClick={() => setShow(SKILLS)} active={show === SKILLS}>Skills</Button>
                     </div>
+                </div>
 
-                </div>
-            {show === CONTACTS && (
-                <div>
-                    <Contacts/>
-                </div>
-            )}
-            {show === SKILLS && (
-                <div>
-                    <Skills/>
-                </div>
-            )}
-
+                {show === CONTACTS && (
+                    <div>
+                        <Contacts/>
+                    </div>
+                )}
+                {show === SKILLS && (
+                    <div>
+                        <Skills/>
+                    </div>
+                )}
+            </div>
+            <div className={s.img}/>
         </div>
+        
     );
 };
 

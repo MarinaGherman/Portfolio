@@ -1,15 +1,30 @@
-
+.generalBlock {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: space-around;
+    align-items: center;
+}
 .mainBlock {
     background-color: white;
     min-height: 50vh;
-    flex-direction: column;
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
 }
 .buttonBlock {
     display: flex;
+}
+
+.img {
+   min-width: 200px;
+    min-height: 300px;
+    background-image: url("/src/common/images/me.jpg");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-around;
+    align-items: stretch;
+    justify-content: space-around;
 }
 
 @media only screen and (max-width: 600px) {
