@@ -23,12 +23,12 @@ const Main = () => {
                 </div>
 
                 {show === CONTACTS && (
-                    <div>
+                    <div style={{minHeight: 300}}>
                         <Contacts/>
                     </div>
                 )}
                 {show === SKILLS && (
-                    <div>
+                    <div style={{minHeight: 300}}>
                         <Skills/>
                     </div>
                 )}
