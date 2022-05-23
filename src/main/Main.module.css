@@ -1,13 +1,10 @@
 .generalBlock {
     display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
     align-content: space-around;
     align-items: center;
 }
 .mainBlock {
     background-color: white;
-    min-height: 50vh;
     flex: 2 1;
 }
 .buttonBlock {
@@ -16,7 +13,7 @@
 
 .img {
    min-width: 200px;
-    min-height: 300px;
+    min-height: 200px;
     background-image: url("/src/common/images/me.jpg");
     background-position: center;
     background-size: cover;
@@ -26,6 +23,7 @@
     align-content: space-around;
     align-items: stretch;
     justify-content: space-around;
+    border-radius: 100px;
 }
 
 @media only screen and (max-width: 600px) {
@@ -36,7 +34,6 @@
     .generalBlock {
         display: flex;
         flex-direction: column;
-
     }
 }
 .text {

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66092669-c587-460f-9cb5-75128d349ba8" name="Changes" comment="fix main block">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.module.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="23ENQOQbPNepMMeINlmBBv6jb03" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/common/images" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/common/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/common/images" />
+      <recent name="$PROJECT_DIR$/src/common/button" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deploy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66092669-c587-460f-9cb5-75128d349ba8" name="Changes" comment="" />
+      <created>1641295269723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641295269723</updated>
+      <workItem from="1641295272273" duration="23667000" />
+      <workItem from="1643973317439" duration="9572000" />
+      <workItem from="1644493034702" duration="2020000" />
+      <workItem from="1644830283933" duration="2351000" />
+      <workItem from="1645105433606" duration="5066000" />
+      <workItem from="1652980630348" duration="2304000" />
+      <workItem from="1653310926272" duration="781000" />
+    </task>
+    <task id="LOCAL-00001" summary="add styles for project">
+      <created>1641306861367</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641306861367</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add Contacts component and styles">
+      <created>1641313027060</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641313027060</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add Icons component and styles">
+      <created>1641313975501</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641313975501</updated>
+    </task>
+    <task id="LOCAL-00004" summary="switch bw contacts &amp; skills">
+      <created>1641325811907</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641325811912</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add skills">
+      <created>1641394422943</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641394422943</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add project">
+      <created>1641402925295</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1641402925295</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add my projects">
+      <created>1643977620114</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1643977620114</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add my contacts">
+      <created>1644247260371</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1644247260371</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix display">
+      <created>1644494278586</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644494278586</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add media">
+      <created>1644831473738</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1644831473738</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add fixes">
+      <created>1645107245933</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1645107245933</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add fixes for projects">
+      <created>1645109321017</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1645109321017</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add fixes for contacts">
+      <created>1645111065064</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1645111065064</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add fixes for projects">
+      <created>1645111137641</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1645111137641</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fix main block">
+      <created>1652981347948</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1652981347948</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add styles for project" />
+    <MESSAGE value="add Contacts component and styles" />
+    <MESSAGE value="add Icons component and styles" />
+    <MESSAGE value="switch bw contacts &amp; skills" />
+    <MESSAGE value="add skills" />
+    <MESSAGE value="add project" />
+    <MESSAGE value="add my projects" />
+    <MESSAGE value="add my contacts" />
+    <MESSAGE value="fix display" />
+    <MESSAGE value="add media" />
+    <MESSAGE value="add fixes" />
+    <MESSAGE value="add fixes for contacts" />
+    <MESSAGE value="add fixes for projects" />
+    <MESSAGE value="fix main block" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix main block" />
+  </component>
+</project>
