@@ -4,6 +4,7 @@ import s from './Main.module.scss'
 import Button from "../common/button/Button";
 import Contacts from "./contacts/Contacts";
 import Skills from "../skills/Skills";
+import Tilt from "react-tilt";
 
 const CONTACTS = "CONTACTS"
 const SKILLS = "SKILLS"
@@ -37,7 +38,15 @@ const Main = () => {
                     </div>
                 )}
             </div>
-            <div className={s.avatar}/>
+            <div className={s.line}/>
+            <div className={s.avatarBlock}>
+                <Tilt className="Tilt" options={{ max : 35 }} >
+                    <div className={s.avatar}/>
+                </Tilt>
+            </div>
+
+
+
         </div>
         
     );

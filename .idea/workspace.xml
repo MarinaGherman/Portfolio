@@ -1,28 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66092669-c587-460f-9cb5-75128d349ba8" name="Changes" comment="add scss and sass loader">
+    <list default="true" id="66092669-c587-460f-9cb5-75128d349ba8" name="Changes" comment="add tult effects">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/button/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/button/Button.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/button/Button.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/button/Button.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/footer/Footer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/footer/Footer.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/footer/Icons.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/footer/Icons.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/footer/Icons.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/footer/Icons.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contacts/Contacts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/contacts/Contacts.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contacts/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/contacts/Contacts.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/projects/Project.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects/Project.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projects/Project.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects/Project.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projects/Projects.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects/Projects.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projects/Projects.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects/Projects.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/skills/Skill.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/skills/Skill.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/skills/Skill.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/skills/Skill.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/skills/Skills.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/skills/Skills.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/skills/skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/skills/skills.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +124,7 @@
       <workItem from="1656597854957" duration="70000" />
       <workItem from="1656758863601" duration="735000" />
       <workItem from="1656848864725" duration="7000" />
-      <workItem from="1656927380766" duration="9473000" />
+      <workItem from="1656927380766" duration="12295000" />
     </task>
     <task id="LOCAL-00001" summary="add styles for project">
       <created>1641306861367</created>
@@ -260,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656942679854</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add scss and sass loader">
+      <created>1656944745272</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1656944745272</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,6 +287,7 @@
     <MESSAGE value="fix main block" />
     <MESSAGE value="add sass and effects" />
     <MESSAGE value="add scss and sass loader" />
-    <option name="LAST_COMMIT_MESSAGE" value="add scss and sass loader" />
+    <MESSAGE value="add tult effects" />
+    <option name="LAST_COMMIT_MESSAGE" value="add tult effects" />
   </component>
 </project>
