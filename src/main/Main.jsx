@@ -1,4 +1,5 @@
 import React, {useState} from 'react';
+import ReactTypingEffect from 'react-typing-effect';
 import s from './Main.module.css'
 import Button from "../common/button/Button";
 import Contacts from "./contacts/Contacts";
@@ -14,6 +15,9 @@ const Main = () => {
             <div className={s.mainBlock} id="main">
                 <div>
                     <h1 className={s.title}>I'm Marina</h1>
+                    <ReactTypingEffect
+                        text={["a Front End Developer."]}
+                    />
                     <h1 className={s.text}>a Front End Developer.</h1>
 
                     <div className={s.contactContainer}>
