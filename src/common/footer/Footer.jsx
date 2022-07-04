@@ -1,9 +1,5 @@
 import React from 'react';
-import s from './Footer.module.css'
-import Icons from "./Icons";
-import fb from '../images/fb.png'
-import vk from '../images/vk-circle.png'
-import insta from '../images/instagram.png'
+import s from './Footer.module.scss'
 
 const Footer = () => {
     return (

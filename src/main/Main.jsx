@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import ReactTypingEffect from 'react-typing-effect';
-import s from './Main.module.css'
+import s from './Main.module.scss'
 import Button from "../common/button/Button";
 import Contacts from "./contacts/Contacts";
 import Skills from "../skills/Skills";
@@ -12,19 +12,19 @@ const Main = () => {
     const [show, setShow] = useState(CONTACTS);
     return (
         <div className={s.generalBlock}>
-            <div className={s.mainBlock} id="main">
-                <div>
+            <div className={s.mainBlock} >
+                <div className={s.myBlock}>
                     <h1 className={s.title}>I'm Marina</h1>
                     <ReactTypingEffect
                         text={["a Front End Developer."]}
                     />
-                    <h1 className={s.text}>a Front End Developer.</h1>
+                </div>
 
                     <div className={s.contactContainer}>
                         <Button onClick={() => setShow(CONTACTS)} active={show === CONTACTS}>Contact</Button>
                         <Button onClick={() => setShow(SKILLS)} active={show === SKILLS}>Skills</Button>
                     </div>
-                </div>
+
 
                 {show === CONTACTS && (
                     <div >
@@ -37,7 +37,7 @@ const Main = () => {
                     </div>
                 )}
             </div>
-            <div className={s.img}/>
+            <div className={s.avatar}/>
         </div>
         
     );

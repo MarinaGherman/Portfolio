@@ -1,5 +1,5 @@
 import React from 'react';
-import s from './skills.module.css'
+import s from './skills.module.scss'
 import Skill from "./Skill";
 import css from '../common/images/css.svg'
 import git from '../common/images/git.svg'
