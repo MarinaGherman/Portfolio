@@ -1,10 +1,11 @@
 .skillsBlock {
     display: flex;
-    flex-direction: column;
-}
-.skills {
-    display: flex;
-    flex-direction: row;
+    align-content: center;
     flex-wrap: wrap;
-    cursor: pointer;
+}
+@media only screen and (max-width: 600px) {
+    .skillsBlock {
+        text-align: center;
+        justify-content: space-between
+    }
 }

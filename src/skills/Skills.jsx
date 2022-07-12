@@ -14,7 +14,6 @@ import Bounce from 'react-reveal/Bounce'
 const Skills = () => {
     return (
         <div className={s.skillsBlock}>
-             <div className={s.skills}>
                  <Bounce >
                  <Skill title={'JS'} icon={js} />
                  <Skill title={'React'} icon={react} />
@@ -24,8 +23,6 @@ const Skills = () => {
                  <Skill title={'AntDesign'} icon={ant} />
                  <Skill title={'Material UI'} icon={mi} />
                  </Bounce>
-             </div>
-
         </div>
     );
 };
