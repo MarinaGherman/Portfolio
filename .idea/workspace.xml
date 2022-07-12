@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66092669-c587-460f-9cb5-75128d349ba8" name="Changes" comment="add react-sleak">
+    <list default="true" id="66092669-c587-460f-9cb5-75128d349ba8" name="Changes" comment="add styles for react sleak">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projects/Project.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects/Project.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projects/Project.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects/Project.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projects/Projects.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects/Projects.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/footer/Footer.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +124,7 @@
       <workItem from="1656758863601" duration="735000" />
       <workItem from="1656848864725" duration="7000" />
       <workItem from="1656927380766" duration="15520000" />
-      <workItem from="1657610975665" duration="20823000" />
+      <workItem from="1657610975665" duration="21005000" />
     </task>
     <task id="LOCAL-00001" summary="add styles for project">
       <created>1641306861367</created>
@@ -311,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657637922318</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="add styles for react sleak">
+      <created>1657640975507</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1657640975507</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,6 +356,7 @@
     <MESSAGE value="add media query" />
     <MESSAGE value="add fixes" />
     <MESSAGE value="add react-sleak" />
-    <option name="LAST_COMMIT_MESSAGE" value="add react-sleak" />
+    <MESSAGE value="add styles for react sleak" />
+    <option name="LAST_COMMIT_MESSAGE" value="add styles for react sleak" />
   </component>
 </project>
