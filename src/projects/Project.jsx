@@ -10,10 +10,11 @@ const Project = ({image2, image3, title, text, link, image1}) => {
         speed: 500,
         slidesToShow: 1,
         slidesToScroll: 1,
+
     };
     return (
         <div className={s.projectBlock}>
-                <div className={s.sliderPosition}>
+                <div className={s.sliderPosition} style={{'outline': 'none'}}>
                     <Slider {...settings}>
                             <div >
                                 <img className={s.img} src={image1} alt="image1"/>
