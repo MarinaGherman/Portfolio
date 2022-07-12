@@ -18,7 +18,7 @@
     height: 40px;
     display: flex;
     margin: 10px 0;
-
+    cursor: pointer;
 }
 .icon:hover {
     animation-duration: 30s;

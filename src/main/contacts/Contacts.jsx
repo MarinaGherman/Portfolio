@@ -1,5 +1,6 @@
 import React from 'react';
 import s from './Contacts.module.css'
+import Bounce from 'react-reveal/Bounce'
 import Contact from "./Contact";
 import fb from '../../common/images/Facebook.png'
 import ln from '../../common/images/linkedin.png'
@@ -12,6 +13,7 @@ import tg from '../../common/images/telegram.png'
 const Contacts = () => {
     return (
         <div className={s.contactsBlock}>
+            <Bounce>
             <div className={s.contact}>
                 <Contact icon={mail} link={"mailto:marina.gherman@icloud.com"} title={'E-mail'} />
             </div>
@@ -33,6 +35,7 @@ const Contacts = () => {
             <div className={s.contact}>
                 <Contact icon={ins} link={"https://www.instagram.com/lloly.p/"} title={'Instagram'} />
             </div>
+                </Bounce>
         </div>
 
     );

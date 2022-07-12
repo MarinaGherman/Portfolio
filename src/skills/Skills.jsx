@@ -8,12 +8,14 @@ import rx from '../common/images/redux-action.svg'
 import js from '../common/images/js.svg'
 import ant from '../common/images/ant.svg'
 import mi from '../common/images/material-ui.svg'
+import Bounce from 'react-reveal/Bounce'
 
 
 const Skills = () => {
     return (
         <div className={s.skillsBlock}>
              <div className={s.skills}>
+                 <Bounce >
                  <Skill title={'JS'} icon={js} />
                  <Skill title={'React'} icon={react} />
                  <Skill title={'CSS'} icon={css}/>
@@ -21,6 +23,7 @@ const Skills = () => {
                  <Skill title={'Git'} icon={git} />
                  <Skill title={'AntDesign'} icon={ant} />
                  <Skill title={'Material UI'} icon={mi} />
+                 </Bounce>
              </div>
 
         </div>

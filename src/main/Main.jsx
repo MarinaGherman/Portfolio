@@ -6,6 +6,7 @@ import Contacts from "./contacts/Contacts";
 import Skills from "../skills/Skills";
 import Tilt from "react-tilt";
 
+
 const CONTACTS = "CONTACTS"
 const SKILLS = "SKILLS"
 
