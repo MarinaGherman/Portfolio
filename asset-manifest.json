@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.ef8caae1.chunk.css",
-    "main.js": "/Portfolio/static/js/main.e1e32efa.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.e1e32efa.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.33972f89.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.33972f89.js.map",
-    "static/js/2.1bb541fd.chunk.js": "/Portfolio/static/js/2.1bb541fd.chunk.js",
-    "static/js/2.1bb541fd.chunk.js.map": "/Portfolio/static/js/2.1bb541fd.chunk.js.map",
-    "static/js/3.9afd427a.chunk.js": "/Portfolio/static/js/3.9afd427a.chunk.js",
-    "static/js/3.9afd427a.chunk.js.map": "/Portfolio/static/js/3.9afd427a.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.6f6478d3.chunk.css",
+    "main.js": "/Portfolio/static/js/main.418ed9f2.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.418ed9f2.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.d10c5cd1.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.d10c5cd1.js.map",
+    "static/js/2.95364d9f.chunk.js": "/Portfolio/static/js/2.95364d9f.chunk.js",
+    "static/js/2.95364d9f.chunk.js.map": "/Portfolio/static/js/2.95364d9f.chunk.js.map",
+    "static/js/3.2cf08ef7.chunk.js": "/Portfolio/static/js/3.2cf08ef7.chunk.js",
+    "static/js/3.2cf08ef7.chunk.js.map": "/Portfolio/static/js/3.2cf08ef7.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "static/css/main.ef8caae1.chunk.css.map": "/Portfolio/static/css/main.ef8caae1.chunk.css.map",
-    "static/js/2.1bb541fd.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.1bb541fd.chunk.js.LICENSE.txt",
+    "static/css/main.6f6478d3.chunk.css.map": "/Portfolio/static/css/main.6f6478d3.chunk.css.map",
+    "static/js/2.95364d9f.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.95364d9f.chunk.js.LICENSE.txt",
     "static/media/ant.f64e817d.svg": "/Portfolio/static/media/ant.f64e817d.svg",
     "static/media/css.ad99d588.svg": "/Portfolio/static/media/css.ad99d588.svg",
     "static/media/git.f0b4fc36.svg": "/Portfolio/static/media/git.f0b4fc36.svg",
@@ -22,9 +22,9 @@
     "static/media/redux-action.4ace17a2.svg": "/Portfolio/static/media/redux-action.4ace17a2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.33972f89.js",
-    "static/js/2.1bb541fd.chunk.js",
-    "static/css/main.ef8caae1.chunk.css",
-    "static/js/main.e1e32efa.chunk.js"
+    "static/js/runtime-main.d10c5cd1.js",
+    "static/js/2.95364d9f.chunk.js",
+    "static/css/main.6f6478d3.chunk.css",
+    "static/js/main.418ed9f2.chunk.js"
   ]
 }
