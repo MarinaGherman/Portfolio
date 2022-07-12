@@ -6,10 +6,10 @@ import Fade from 'react-reveal/Fade';
 const lingvaninja  = "https://lingvoninja.com//images/meta/index.png";
 const zodier = "https://zodier.io/static/meta-image.png";
 const lingvaninjaText = "Lingvo Ninja is a Telegram Bot that helps to learn new English words. Here I took part in creating SPA, used next technologies: " +
-    "React/NextJS/ Ant-Design/ StyledComponents/ SCSS/ Figma/ React-Router-Dom/ GIT/GitHUb and etc. Used ESLint and Prettier for code quality control.";
+    "React/NextJS/ Ant-Design/ StyledComponents/ SCSS/ Figma/ React-Router-Dom/ GIT/GitHUb and etc. Implemented responsive version with media queries for mobile and tablet. Used ESLint and Prettier for code quality control.";
 const lingvaninjaTitle = "Lingvo Ninja"
 const zodierText = "Collaborate with a team to develop a SPA on React and NextJS, created UI used framework Ant-Design/ Less/Sass-loader and Figma. For creating the routing of SPA used React-Router-Dom. " +
-    "For this page, I needed third party plugins like: moment JS, google-map-react, device-detector-js, less-vars-to-js, prettier and eslint."
+    "For this page, I needed third party plugins like: moment JS, google-map-react, device-detector-js, less-vars-to-js, prettier and eslint. Implemented responsive version with media queries for mobile and tablet."
 const zodierTitle = "Zodier"
 const zodierLink = "https://zodier.io/en#contact"
 const lingvoNinjaLink = "https://lingvoninja.com/"
@@ -22,7 +22,7 @@ const cards = "https://dl.hiapphere.com/data/thumb/202104/com.studzone.simplefla
 const cardsTitle = "Cards Quizz Project"
 const cardsText = "Cards Quizz Project was my final project in IT-incubator where I used all technologies that we learn: React/Redux, ReduxThunk, TypeScript, Jest, Axios and Material UI." +
     " For implementation the registration and login form I used Formik library. Thanks to new version of react-router-dom V.6 I set a private routing and used HOOKS like useParams, useNavigate, useSearchParams and useLocation. " +
-    "I used Postman for testing API and Axios to call HTTP Request Methods."
+    "I used Postman for testing API and Axios to call HTTP Request Methods. Implemented responsive version with media queries for mobile and tablet"
 const cardsLink = "https://trivium-bit.github.io/cards-triv/#/packs"
 
 const Projects = () => {
