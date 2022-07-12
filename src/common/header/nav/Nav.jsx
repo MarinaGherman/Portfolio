@@ -7,7 +7,7 @@ const Nav = () => {
         <div className={s.nav}>
             <a onClick={() => scrollTo('main')}>Main</a>
             <a onClick={() => scrollTo('projects')}>Projects</a>
-            <a onClick={() => scrollTo('contacts')}>Contacts</a>
+            <a onClick={() => scrollTo('footer')}>About</a>
         </div>
     );
 };

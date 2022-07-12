@@ -2,7 +2,6 @@ import s from './App.module.scss';
 import Header from "./common/header/Header";
 import Main from "./main/Main";
 import Projects from "./projects/Projects";
-import Contacts from "./contacts/Contacts";
 import Footer from "./common/footer/Footer";
 
 
@@ -13,7 +12,7 @@ function App() {
           <div className={s.container}>
               <Main />
               <Projects/>
-              <Contacts/>
+              {/*<Contacts/>*/}
           </div>
           <Footer/>
       </div>

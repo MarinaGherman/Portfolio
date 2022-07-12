@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66092669-c587-460f-9cb5-75128d349ba8" name="Changes" comment="add tult effects">
+    <list default="true" id="66092669-c587-460f-9cb5-75128d349ba8" name="Changes" comment="refactor portfolio">
+      <change afterPath="$PROJECT_DIR$/src/common/images/Mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/images/codewars.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Main.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projects/Project.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects/Project.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/footer/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/header/nav/Nav.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/header/nav/Nav.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/contacts/Contacts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/contacts/Contacts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/Projects.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects/Projects.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skills/Skills.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/skills/Skills.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skills/skills.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/skills/skills.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,15 +51,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/marina/WebstormProjects/Portfolio/src/common/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/common/images" />
@@ -65,7 +70,7 @@
       <recent name="$PROJECT_DIR$/src/common/button" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.start">
+  <component name="RunManager" selected="npm.deploy">
     <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -98,9 +103,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.deploy" />
         <item itemvalue="npm.start" />
         <item itemvalue="npm.start:n17" />
-        <item itemvalue="npm.deploy" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +129,8 @@
       <workItem from="1656597854957" duration="70000" />
       <workItem from="1656758863601" duration="735000" />
       <workItem from="1656848864725" duration="7000" />
-      <workItem from="1656927380766" duration="12295000" />
+      <workItem from="1656927380766" duration="15520000" />
+      <workItem from="1657610975665" duration="6689000" />
     </task>
     <task id="LOCAL-00001" summary="add styles for project">
       <created>1641306861367</created>
@@ -252,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656944745272</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add tult effects">
+      <created>1656951530565</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1656951530565</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,6 +301,7 @@
     <MESSAGE value="add sass and effects" />
     <MESSAGE value="add scss and sass loader" />
     <MESSAGE value="add tult effects" />
-    <option name="LAST_COMMIT_MESSAGE" value="add tult effects" />
+    <MESSAGE value="refactor portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor portfolio" />
   </component>
 </project>
