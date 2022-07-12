@@ -20,9 +20,8 @@ const Main = () => {
                         text={["a Front End Developer."]}
                     />
                 </div>
-
                     <div className={s.contactContainer}>
-                        <Button onClick={() => setShow(CONTACTS)} active={show === CONTACTS}>Contact</Button>
+                        <Button onClick={() => setShow(CONTACTS)} active={show === CONTACTS}>Contacts</Button>
                         <Button onClick={() => setShow(SKILLS)} active={show === SKILLS}>Skills</Button>
                     </div>
 
@@ -44,9 +43,6 @@ const Main = () => {
                     <div className={s.avatar}/>
                 </Tilt>
             </div>
-
-
-
         </div>
         
     );

@@ -3,9 +3,12 @@ import s from './Footer.module.scss'
 
 const Footer = () => {
     return (
-            <div className={s.footer}>
+            <div className={s.footer} id="footer">
                 <div className={s.privacy} >
-                    <p>@2021 All rights reserved </p>
+                   <b>To implement this page I used:</b> React JS HOOKS, SCSS-FlexBox, StyledComponents and fortawesome icons.<br/>
+                   <b>For navigation</b> I used JS method "element.scrollIntoView()" <br/>
+                     <b>Install Plugins: </b> react-typing-effect, react-tilt, react-reveal"<br/>
+                     <b>Deployed on:</b> Github Pages.
                 </div>
             </div>
 

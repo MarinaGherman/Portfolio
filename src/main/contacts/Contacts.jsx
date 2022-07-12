@@ -7,7 +7,7 @@ import ins from '../../common/images/instagram.png'
 import gh from '../../common/images/github.png'
 import gl from '../../common/images/gitlab.png'
 import mail from '../../common/images/Mail.png'
-import cw from '../../common/images/codewars.png'
+import tg from '../../common/images/telegram.png'
 
 const Contacts = () => {
     return (
@@ -25,7 +25,7 @@ const Contacts = () => {
                 <Contact icon={gl} link={"https://gitlab.com/MarinaGherman"} title={'GitLab'} />
             </div>
             <div className={s.contact}>
-                <Contact icon={cw} link={"https://www.codewars.com/users/MarinaGherman"} title={'Codewars'} />
+                <Contact icon={tg} link={"https://t.me/MarinaGherman"} title={'Telegram'} />
             </div>
             <div className={s.contact}>
                 <Contact icon={fb} link={"https://www.facebook.com/loly.popa.7"} title={'Facebook'}/>
