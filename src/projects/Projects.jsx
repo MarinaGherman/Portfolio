@@ -33,14 +33,19 @@ const Projects = () => {
             </div>
             <div className={s.projectComponents}>
                 <Fade left>
-                    <Project image={cards}
+                    <Project image1={cards}
+                             image2={cards}
+                             image3={cards}
                              title={cardsTitle}
                              text ={cardsText}
                              link={cardsLink}
                     />
                 </Fade>
                 <Fade right>
-                    <Project image={lingvaninja}
+                    <Project
+                             image1={lingvaninja}
+                             image2={lingvaninja}
+                             image3={lingvaninja}
                              title={lingvaninjaTitle}
                              text ={lingvaninjaText}
                              link={lingvoNinjaLink}
@@ -48,14 +53,18 @@ const Projects = () => {
 
                 </Fade>
                 <Fade left>
-                    <Project image={zodier}
+                    <Project image1={zodier}
+                             image2={zodier}
+                             image3={zodier}
                              title={zodierTitle}
                              text ={zodierText}
                              link={zodierLink}
                     />
                 </Fade>
                 <Fade right>
-                    <Project image={donato}
+                    <Project image1={donato}
+                             image2={donato}
+                             image3={donato}
                              title={donatoTitle}
                              text ={donatoText}
                              link={donatoLink}

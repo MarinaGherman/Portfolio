@@ -1,24 +1,38 @@
 import React from 'react';
 import s from './Project.module.scss'
 import Tilt from 'react-tilt'
+import Slider from "react-slick";
 
-const Project = ({image, title, text, link}) => {
+const Project = ({image2, image3, title, text, link, image1}) => {
+    const settings = {
+        dots: true,
+        infinite: true,
+        speed: 500,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+    };
     return (
         <div className={s.projectBlock}>
-            <Tilt className="Tilt" options={{ max : 5 }} >
-                <div>
-                    <div className={s.image}
-                         style={{backgroundImage: "url(" + image + ")"}}>
+                <div className={s.sliderPosition}>
+                    <Slider {...settings}>
+                            <div >
+                                <img className={s.img} src={image1} alt="image1"/>
+                            </div>
+                            <div>
+                                <img  className={s.img} src={image2} alt="image2"/>
+                            </div>
+                            <div>
+                                <img className={s.img} src={image3} alt="image3"/>
+                            </div>
+                    </Slider>
                         <div className={s.btnBlock}>
-                            <Tilt className="Tilt" options={{ max : 25 }} >
+                            <Tilt className="Tilt" options={{ max : 10 }} >
                             <button className={s.btn}>
                                 <a target="_blank" href={link} rel="noreferrer">Open Link</a>
                             </button>
                             </Tilt>
                         </div>
-                    </div>
                 </div>
-            </Tilt>
             <p>{title}</p>
             <span>{text}</span>
         </div>
