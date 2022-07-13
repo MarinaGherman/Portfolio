@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.6f6478d3.chunk.css",
-    "main.js": "/Portfolio/static/js/main.418ed9f2.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.418ed9f2.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.bd3e0d42.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.bd3e0d42.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.d10c5cd1.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.d10c5cd1.js.map",
     "static/js/2.95364d9f.chunk.js": "/Portfolio/static/js/2.95364d9f.chunk.js",
@@ -12,6 +12,22 @@
     "index.html": "/Portfolio/index.html",
     "static/css/main.6f6478d3.chunk.css.map": "/Portfolio/static/css/main.6f6478d3.chunk.css.map",
     "static/js/2.95364d9f.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.95364d9f.chunk.js.LICENSE.txt",
+    "static/media/1.4df723fb.png": "/Portfolio/static/media/1.4df723fb.png",
+    "static/media/1.6707951e.png": "/Portfolio/static/media/1.6707951e.png",
+    "static/media/1.e07edcc4.png": "/Portfolio/static/media/1.e07edcc4.png",
+    "static/media/1.ff4e5355.png": "/Portfolio/static/media/1.ff4e5355.png",
+    "static/media/2.2ceb6dab.png": "/Portfolio/static/media/2.2ceb6dab.png",
+    "static/media/2.b34f6c2c.png": "/Portfolio/static/media/2.b34f6c2c.png",
+    "static/media/2.beb6d3da.png": "/Portfolio/static/media/2.beb6d3da.png",
+    "static/media/2.c36661a5.png": "/Portfolio/static/media/2.c36661a5.png",
+    "static/media/3.0e7a7a1a.png": "/Portfolio/static/media/3.0e7a7a1a.png",
+    "static/media/3.72deb833.png": "/Portfolio/static/media/3.72deb833.png",
+    "static/media/3.8fa21a7b.png": "/Portfolio/static/media/3.8fa21a7b.png",
+    "static/media/3.f8126018.png": "/Portfolio/static/media/3.f8126018.png",
+    "static/media/4.07175396.png": "/Portfolio/static/media/4.07175396.png",
+    "static/media/4.0bab8d4c.png": "/Portfolio/static/media/4.0bab8d4c.png",
+    "static/media/4.7f796e9a.png": "/Portfolio/static/media/4.7f796e9a.png",
+    "static/media/4.caf54ed5.png": "/Portfolio/static/media/4.caf54ed5.png",
     "static/media/ant.f64e817d.svg": "/Portfolio/static/media/ant.f64e817d.svg",
     "static/media/css.ad99d588.svg": "/Portfolio/static/media/css.ad99d588.svg",
     "static/media/git.f0b4fc36.svg": "/Portfolio/static/media/git.f0b4fc36.svg",
@@ -25,6 +41,6 @@
     "static/js/runtime-main.d10c5cd1.js",
     "static/js/2.95364d9f.chunk.js",
     "static/css/main.6f6478d3.chunk.css",
-    "static/js/main.418ed9f2.chunk.js"
+    "static/js/main.bd3e0d42.chunk.js"
   ]
 }
