@@ -7,7 +7,7 @@ const Footer = () => {
                 <div className={s.privacy} >
                    <b>To implement this page I used:</b> React JS HOOKS, SCSS-FlexBox, StyledComponents, Media queries and fortawesome icons.<br/>
                    <b>For navigation</b> I used JS method "element.scrollIntoView()" <br/>
-                     <b>Install Plugins: </b> react-typing-effect, react-tilt, react-reveal and react-slick-carousel."<br/>
+                     <b>Used packages: </b> react-typing-effect, react-tilt, react-reveal and react-slick-carousel."<br/>
                      <b>Deployed on:</b> Github Pages.
                 </div>
             </div>

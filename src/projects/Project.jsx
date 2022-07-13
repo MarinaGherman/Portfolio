@@ -3,7 +3,7 @@ import s from './Project.module.scss'
 import Tilt from 'react-tilt'
 import Slider from "react-slick";
 
-const Project = ({image2, image3, title, text, link, image1}) => {
+const Project = ({image, image1, image2, image3, image4, title, text, link}) => {
     const settings = {
         dots: true,
         infinite: true,
@@ -16,6 +16,9 @@ const Project = ({image2, image3, title, text, link, image1}) => {
         <div className={s.projectBlock}>
                 <div className={s.sliderPosition} style={{'outline': 'none'}}>
                     <Slider {...settings}>
+                        <div >
+                            <img className={s.img} src={image} alt="image1"/>
+                        </div>
                             <div >
                                 <img className={s.img} src={image1} alt="image1"/>
                             </div>
@@ -25,6 +28,9 @@ const Project = ({image2, image3, title, text, link, image1}) => {
                             <div>
                                 <img className={s.img} src={image3} alt="image3"/>
                             </div>
+                        <div>
+                            <img className={s.img} src={image4} alt="image3"/>
+                        </div>
                     </Slider>
                         <div className={s.btnBlock}>
                             <Tilt className="Tilt" options={{ max : 10 }} >

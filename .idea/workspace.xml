@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66092669-c587-460f-9cb5-75128d349ba8" name="Changes" comment="add styles for react sleak">
+    <list default="true" id="66092669-c587-460f-9cb5-75128d349ba8" name="Changes" comment="fix footer desc">
+      <change afterPath="$PROJECT_DIR$/src/common/images/cards/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/images/cards/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/images/cards/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/images/cards/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/images/ninja/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/images/ninja/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/images/ninja/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/images/ninja/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/images/solar/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/images/solar/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/images/solar/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/images/solar/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/images/zodier/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/images/zodier/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/images/zodier/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/images/zodier/4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/common/footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/footer/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/Project.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects/Project.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/Projects.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects/Projects.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +67,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/marina/WebstormProjects/Portfolio/src/common/images",
+    "last_opened_file_path": "/Users/marina/WebstormProjects/Portfolio/src/common/images/solar",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
@@ -57,7 +76,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/common/images/solar" />
       <recent name="$PROJECT_DIR$/src/common/images" />
+      <recent name="$PROJECT_DIR$/src/common/images/zodier" />
+      <recent name="$PROJECT_DIR$/src/common/images/ninja" />
+      <recent name="$PROJECT_DIR$/src/common/images/cards" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/common/images" />
@@ -124,7 +147,7 @@
       <workItem from="1656758863601" duration="735000" />
       <workItem from="1656848864725" duration="7000" />
       <workItem from="1656927380766" duration="15520000" />
-      <workItem from="1657610975665" duration="21005000" />
+      <workItem from="1657610975665" duration="24349000" />
     </task>
     <task id="LOCAL-00001" summary="add styles for project">
       <created>1641306861367</created>
@@ -315,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657640975507</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="fix footer desc">
+      <created>1657641149800</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1657641149800</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,6 +387,7 @@
     <MESSAGE value="add fixes" />
     <MESSAGE value="add react-sleak" />
     <MESSAGE value="add styles for react sleak" />
-    <option name="LAST_COMMIT_MESSAGE" value="add styles for react sleak" />
+    <MESSAGE value="fix footer desc" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix footer desc" />
   </component>
 </project>
